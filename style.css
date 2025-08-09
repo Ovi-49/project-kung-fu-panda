@@ -27,7 +27,7 @@ body{
 
 .card::after{
 
-    content: "Don't Hover Me";
+    content: "Don't Touch Me";
     position: absolute;
     top: 55px;
     right: -40px;
